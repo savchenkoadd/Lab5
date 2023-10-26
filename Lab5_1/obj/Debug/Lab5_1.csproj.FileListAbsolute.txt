@@ -1,0 +1,10 @@
+C:\console\Lab5_1\bin\Debug\Lab5_1.exe.config
+C:\console\Lab5_1\bin\Debug\Lab5_1.exe
+C:\console\Lab5_1\bin\Debug\Lab5_1.pdb
+C:\console\Lab5_1\obj\Debug\Lab5_1.csproj.AssemblyReference.cache
+C:\console\Lab5_1\obj\Debug\Lab5_1.Form1.resources
+C:\console\Lab5_1\obj\Debug\Lab5_1.Properties.Resources.resources
+C:\console\Lab5_1\obj\Debug\Lab5_1.csproj.GenerateResource.cache
+C:\console\Lab5_1\obj\Debug\Lab5_1.csproj.CoreCompileInputs.cache
+C:\console\Lab5_1\obj\Debug\Lab5_1.exe
+C:\console\Lab5_1\obj\Debug\Lab5_1.pdb
